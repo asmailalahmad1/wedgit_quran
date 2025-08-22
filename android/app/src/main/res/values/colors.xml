@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ✅ ألوان الويدجت الجديدة -->
+    <color name="widget_background_green">#2E6560</color>
+    <color name="widget_accent_gold">#B8860B</color>
+    <color name="widget_text_primary">#FFFFFF</color>
+
+    <!-- لون أيقونة التطبيق -->
+    <color name="ic_launcher_background">#2E6560</color> 
+</resources>
